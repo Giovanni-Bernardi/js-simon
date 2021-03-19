@@ -18,3 +18,8 @@
   .row{
     margin: auto;
   }
+
+  h2{
+    font-size: 30px;
+    color: rgb(51, 255, 0);
+  }
